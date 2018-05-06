@@ -6,3 +6,5 @@ Creating a new branch is quick and fucked.
 Branch featurel add a new line.
 A line in featurel.
 A line in master.
+
+for turn down ff mode.
